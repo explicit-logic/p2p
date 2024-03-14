@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.8e9d7ee1.js",
-    "static/js/787.5a475f35.chunk.js": "/static/js/787.5a475f35.chunk.js",
-    "index.html": "/index.html",
-    "main.8e9d7ee1.js.map": "/static/js/main.8e9d7ee1.js.map",
-    "787.5a475f35.chunk.js.map": "/static/js/787.5a475f35.chunk.js.map"
+    "main.js": "https://explicit-logic.github.io/p2p/static/js/main.d5223f9f.js",
+    "static/js/787.5a475f35.chunk.js": "https://explicit-logic.github.io/p2p/static/js/787.5a475f35.chunk.js",
+    "index.html": "https://explicit-logic.github.io/p2p/index.html",
+    "main.d5223f9f.js.map": "https://explicit-logic.github.io/p2p/static/js/main.d5223f9f.js.map",
+    "787.5a475f35.chunk.js.map": "https://explicit-logic.github.io/p2p/static/js/787.5a475f35.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.8e9d7ee1.js"
+    "static/js/main.d5223f9f.js"
   ]
 }
